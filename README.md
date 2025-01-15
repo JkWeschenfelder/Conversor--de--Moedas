@@ -5,6 +5,6 @@ Este Conversor de moedas foi desenvolvido utilizando as linguagens CSS, Html, ja
 converter o valor da moeda de dolar(USD), para Real(BRL).
 
 ## Como eu utilizo a aplicação?
-copie o código: http://127.0.0.1:5500/, no seu navegador
-ou clique no i9ndex.html.
+Copie o código: http://127.0.0.1:5500/, no seu navegador
+
 
